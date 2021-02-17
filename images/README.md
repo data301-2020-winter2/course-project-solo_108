@@ -1,0 +1,1 @@
+This directory contains any images utilised in this project.

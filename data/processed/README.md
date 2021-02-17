@@ -1,0 +1,1 @@
+This directory contains any processed data regarding the project.
